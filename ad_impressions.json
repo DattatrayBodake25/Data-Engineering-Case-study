@@ -1,0 +1,182 @@
+[
+    {
+        "ad_id": 82,
+        "user_id": 1117,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 77,
+        "user_id": 1245,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 58,
+        "user_id": 1860,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 63,
+        "user_id": 1546,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 12,
+        "user_id": 1802,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 69,
+        "user_id": 1834,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 3,
+        "user_id": 1944,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 63,
+        "user_id": 1292,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 33,
+        "user_id": 1954,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 32,
+        "user_id": 1251,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 68,
+        "user_id": 1876,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 27,
+        "user_id": 1057,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 69,
+        "user_id": 1214,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 96,
+        "user_id": 1195,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 18,
+        "user_id": 1824,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 5,
+        "user_id": 1176,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 82,
+        "user_id": 1328,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 18,
+        "user_id": 1197,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 51,
+        "user_id": 1519,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 89,
+        "user_id": 1077,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 74,
+        "user_id": 1322,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 50,
+        "user_id": 1395,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 60,
+        "user_id": 1683,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 88,
+        "user_id": 1543,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 9,
+        "user_id": 1711,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "example.com"
+    },
+    {
+        "ad_id": 78,
+        "user_id": 1360,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 70,
+        "user_id": 1074,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 31,
+        "user_id": 1275,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    },
+    {
+        "ad_id": 69,
+        "user_id": 1903,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "testsite.com"
+    },
+    {
+        "ad_id": 86,
+        "user_id": 1772,
+        "timestamp": "2024-04-08 14:05:06",
+        "website": "samplepage.com"
+    }
+]
